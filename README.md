@@ -1,17 +1,15 @@
-🎨 Nothing Design
--
+# 🎨 Nothing
+
 A clean, minimalistic, and interactive landing page concept built to showcase design precision and smooth user experience.
 
-\
-🔗 Live Demo →
- [DEMO LINK](https://NataliiaNudyk.github.io/Nothing-landing-page/)
 
-\
-🎨 Design Reference →
- [Nothing design](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6802-139&t=L7eKz5YKLN0m5WxR-0)
+### 🔗 Live Demo → [Nothing](https://NataliiaNudyk.github.io/Nothing-landing-page/)
 
-\
-✨ Key Features
+
+### 🎨 Design Reference → [Nothing design](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6802-139&t=L7eKz5YKLN0m5WxR-0)
+
+
+## ✨ Key Features
 
 🖱️ Interactive layout — smooth hover animations that bring the design to life.
 
@@ -23,8 +21,8 @@ A clean, minimalistic, and interactive landing page concept built to showcase de
 
 ⚡ Optimized build — fast loading thanks to Parcel bundling and SCSS optimization.
 
-\
-🧰 Tech Stack
+
+## 🧰 Tech Stack
 
 - HTML5	Semantic, well-structured content layout
 - SCSS	Modular styling with variables, mixins, and nesting
