@@ -25,7 +25,7 @@ A clean, minimalistic, and interactive landing page concept built to showcase de
 
 \
 🧰 Tech Stack
-Technology	Purpose
+
 - HTML5	Semantic, well-structured content layout
 - SCSS	Modular styling with variables, mixins, and nesting
 - Parcel	Fast bundler for development and production builds
